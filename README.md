@@ -9,9 +9,9 @@
  
  It is used to perform data analysis for real world business related questions and scenarios such as
 
-     Find out the rewarding system for the loyal users
-     Launching campaign to target the weekdays with the most user registerations
-     Encouraging inactive users to log in back to the system
+     "Discover the incentive program for frequent users"
+     "Initiate a promotional effort aimed at the days with the highest number of user sign-ups"
+     "Motivate former users to re-engage with the platform"
     
 
  <img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
